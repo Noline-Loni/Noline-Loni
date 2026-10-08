@@ -1,8 +1,8 @@
-<img src="assets/banner.png" alt="noline lindor · Design meets Marketing Automation." width="100%">
+<img src="assets/banner.png" alt="noline lindor · Design meets AI-Powered Automation." width="100%">
 
 <br>
 
-I build systems that replace manual marketing work. My background is design, my tool is code: Python automations on the Meta Marketing API, Google Ads Scripts, AI-assisted workflows and dashboards that bring data from several sources into one place. The design side makes sure people can actually work with what I build.
+I build systems that replace manual marketing work. My background is design, my tools are code and AI: Python automations on the Meta Marketing API, Google Ads Scripts, n8n and Claude workflows and dashboards that bring data from several sources into one place. The design side makes sure people can actually work with what I build.
 
 **[Portfolio](https://nolinelindor.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/noline-lindor-43b923213)** &nbsp;·&nbsp; **[Email](mailto:nolinelindor@gmail.com)**
 
@@ -38,7 +38,7 @@ I build systems that replace manual marketing work. My background is design, my 
 ### STACK
 
 **Automation & code** &nbsp; `Python` `JavaScript` `TypeScript` `Node.js` `React` `PostgreSQL` `REST APIs` `Google Ads Scripts`  
-**AI workflows** &nbsp; `Claude` `Cursor` `Agent Skills` `Prompt Engineering`  
+**AI & workflows** &nbsp; `Claude` `n8n` `Cursor` `Agent Skills` `Prompt Engineering`  
 **Marketing tech** &nbsp; `Meta Ads` `Google Ads` `GA4` `Google Tag Manager`  
 **Design** &nbsp; `Figma` `Adobe XD` `InDesign` `Illustrator` `Photoshop` `Blender`
 
